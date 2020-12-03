@@ -17,4 +17,5 @@ yarn dev
 ## Hosting
 
 The application is built to be hosted in [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) with the container feature.
-It should be setup with authentication and managed identity in the App Service.
+
+> It should be setup with **authentication** and managed identity in the App Service.
